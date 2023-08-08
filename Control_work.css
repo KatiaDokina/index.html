@@ -775,6 +775,10 @@ font-size: 38px;
   transform: scale(1.1);
   transition: 2s;
 }
+#block1p4 button:hover{
+  transform: scale(1.1);
+  transition: 2s;
+}
 footer{
   display: flex;
   justify-content: center;
@@ -950,4 +954,9 @@ footer{
   text-transform: uppercase;
   margin: 0;
   margin-left: 4px;
+}
+#block11p66{
+  justify-content: center;
+  display: flex;
+  align-items: center;
 }
